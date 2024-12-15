@@ -1,4 +1,4 @@
-# Webpage Implementation - HTML Structure Only
+# Webpage Implementation
 
 ## Project Overview
 
@@ -9,4 +9,4 @@ For this first project, your task will be to implement the webpage's HTML, CSS a
 ### Tools
 - **Figma**: The designer file will be shared with you on Figma. You can view and inspect the design to understand the layout and structure.
 - **HTML**: You'll use HTML to create the webpage structure.
--**CSS**: You'll use CSS for the styling of the website
+- **CSS**: You'll use CSS for the styling of the website
